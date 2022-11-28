@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joshuakfarrar
 - 👀 I’m interested in software and government
-- 🌱 I’m learning Scala and Haskell, mathematics and statistical inference, español y 日本語
-- 🫂 Administer a Mastodon instance and a very large local Facebook group
+- 🌱 I’m learning Scala and Haskell, mathematics and statistical inference, español y 日本語。
+- 🫂 Administer a Mastodon instance and a large local Facebook group
 - 📫 Reach me at joshuakfarrar@proton.me
 - Code samples on Gist: https://gist.github.com/joshuakfarrar/0048f6c93808ca7cdf6bba6f52516bed
 
