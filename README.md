@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @joshuakfarrar
 - 👀 I’m interested in software and government
 - 🌱 I’m currently learning Scala and stastical inference
-- 📫 How to reach me joshuakfarrar@proton.me
+- 🫂 Administer a Mastodon instance and a very large local Facebook group
+- 📫 Reach me at joshuakfarrar@proton.me
 
 <!---
 joshuakfarrar/joshuakfarrar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
