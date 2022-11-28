@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joshuakfarrar
 - 👀 I’m interested in software and government
-- 🌱 I’m currently learning Scala and stastical inference
+- 🌱 I’m learning Scala and stastical inference, español y 日本語
 - 🫂 Administer a Mastodon instance and a very large local Facebook group
 - 📫 Reach me at joshuakfarrar@proton.me
 
