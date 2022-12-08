@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joshuakfarrar
-- 👀 I’m interested in software and government
+- 👀 I work in software and government
 - 🌱 I’m learning Scala and Haskell, mathematics and statistical inference, español y 日本語。
 - 📈 Data engineering is the key to unlocking the potential of machine learning
 - ⚙️ I do DevSecOps-type work, including Kubernetes and containerization, and ETL
